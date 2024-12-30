@@ -1,0 +1,19 @@
+<!---
+- 👋 Hi, I’m @HunterHgdev
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+--->
+
+Hey I'm Hunter Hughes from Fort Collins, Colorado. Graduate of Colorado State University, bachelors in computer science with a math minor. 
+Progamming for 9 years specializing in data scraping, data manipulation, and program creation. 
+I enjoy problem solving, out of box thinking, and cooperation.
+I use Python, C, C++, C#, Java.
+
+<!---
+HunterHgdev/HunterHgdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
